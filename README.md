@@ -57,7 +57,7 @@ The following charts were generated as part of the analysis:
 
 **Explanation:** This chart represents boxplot Healthy life expectancy at birth.
 
-![boxplot_Life Ladder](boxplot_Life Ladder.png)
+![boxplot_Life_Ladder](boxplot_Life_Ladder.png)
 
 **Explanation:** This chart represents boxplot Life Ladder.
 
