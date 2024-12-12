@@ -45,7 +45,6 @@ Overall, the findings prompt a more nuanced understanding of book ratings on pla
 
 The following charts were generated as part of the analysis:
 
-
 **Explanation:** This chart represents boxplot Freedom to make life choices.
 
 ![boxplot_Generosity](charts\boxplot_Generosity.png)
@@ -53,12 +52,4 @@ The following charts were generated as part of the analysis:
 **Explanation:** This chart represents boxplot Healthy life expectancy at birth.
 
 ![boxplot_Life Ladder](charts\boxplot_Life_Ladder.png)
-
-![correlation_matrix](charts\correlation_matrix.png)
-
-**Explanation:** This chart represents correlation matrix.
-
-![histograms](charts\histograms.png)
-
-**Explanation:** This chart represents histograms.
 
