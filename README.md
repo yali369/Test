@@ -47,25 +47,3 @@ The following charts were generated as part of the analysis:
 
 ![boxplot_Freedom to make life choices](charts/boxplot_Freedom to make life choices.png)
 
-![boxplot_Generosity](./chart\boxplot_Generosity.png)
-
-![boxplot_Healthy life expectancy at birth](./chart\boxplot_Healthy life expectancy at birth.png)
-
-![boxplot_Life Ladder](./chart\boxplot_Life Ladder.png)
-
-![boxplot_Log GDP per capita](./chart\boxplot_Log GDP per capita.png)
-
-![boxplot_Negative affect](./chart\boxplot_Negative affect.png)
-
-![boxplot_Perceptions of corruption](./charts\boxplot_Perceptions of corruption.png)
-
-![boxplot_Positive affect](./charts\boxplot_Positive affect.png)
-
-![boxplot_Social support](./charts\boxplot_Social support.png)
-
-![boxplot_year](./charts\boxplot_year.png)
-
-![correlation_matrix](./charts\correlation_matrix.png)
-
-![histograms](./charts\histograms.png)
-
