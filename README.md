@@ -49,7 +49,7 @@ The Python script provided processes a dataset titled `happiness.csv`, utilizing
    - Given that factors like social support and perceptions of corruption are included, policymakers could focus on these dimensions to improve citizen well-being, especially in lower-scoring nations.
 
 5. **Visual Storytelling**:
-   - The visualizations generated serve not just for exploratory analysis but also for storytelling — illustrating how various factors contribute to happiness and allowing stakeholders to visualize trends and patterns in the data effectively.
+   - The visualizations generated serve not just for exploratory analysis but also for storytelling â€” illustrating how various factors contribute to happiness and allowing stakeholders to visualize trends and patterns in the data effectively.
 
 6. **Future Research Directions**:
    - Enhancements can include deeper dives into categorical variables (like happiness by country), assessing longitudinal trends over the years, or applying advanced analytical techniques such as machine learning to predict happiness based on multiple factors simultaneously.
