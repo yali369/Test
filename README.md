@@ -45,5 +45,5 @@ Overall, the findings prompt a more nuanced understanding of book ratings on pla
 
 The following charts were generated as part of the analysis:
 
-![boxplot_Freedom to make life choices](charts/boxplot_Freedom to make life choices.png)
+![boxplot_Freedom to make life choices](charts/boxplot_Generosity.png)
 
