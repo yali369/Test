@@ -53,3 +53,5 @@ The following charts were generated as part of the analysis:
 
 ![boxplot_Log GDP per capita](histograms.png)
 
+![boxplot_Log GDP per capita](charts/histograms.png)
+
