@@ -49,7 +49,4 @@ The following charts were generated as part of the analysis:
 
 ![boxplot_Generosity](charts\boxplot_Generosity.png)
 
-**Explanation:** This chart represents boxplot Healthy life expectancy at birth.
-
-![boxplot_Life Ladder](charts\boxplot_Life_Ladder.png)
 
