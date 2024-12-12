@@ -35,14 +35,14 @@ This analysis was conducted using an automated LLM pipeline. The dataset provide
    - The data indicates that a high number of ratings does correlate with higher average ratings, but the relationship is weak. This suggests that while books with many ratings tend to be rated higher, other factors (not captured in this dataset) play a significant role in determining what makes a book popular or well-received.
 
 2. **Outlier Phenomenon:**
-   - The box plot analysis reveals that some books have extraordinarily high ratings counts compared to others. This could present opportunities to investigate what characteristics make these books stand out—whether it be genre, author popularity, marketing strategies, etc.
+   - The box plot analysis reveals that some books have extraordinarily high ratings counts compared to others. This could present opportunities to investigate what characteristics make these books stand outâ€”whether it be genre, author popularity, marketing strategies, etc.
 
 3. **Potential Areas for Further Research:**
-   - The negative relationship observed with `work_text_reviews_count` may warrant further exploration—perhaps a more thorough qualitative analysis of reviews could provide insights into why increased review counts do not align with higher ratings.
+   - The negative relationship observed with `work_text_reviews_count` may warrant further explorationâ€”perhaps a more thorough qualitative analysis of reviews could provide insights into why increased review counts do not align with higher ratings.
    - The dataset could benefit from additional attributes, such as genre, publication year, and reader demographics, to create more sophisticated predictive models.
 
 4. **Implications for Authors and Publishers:**
-   - Understanding that the average ratings are roughly centered around 4 suggests that books achieving this score may have a formula for success—potentially indicating target benchmarks for new authors or publishers aiming to capture reader interest.
+   - Understanding that the average ratings are roughly centered around 4 suggests that books achieving this score may have a formula for successâ€”potentially indicating target benchmarks for new authors or publishers aiming to capture reader interest.
 
 5. **Data Limitations:**
    - With a low R-squared in regression analysis, it is crucial to gather additional data that may include qualitative measures, such as user engagement, thematic content, or marketing efforts, for more accurate predictive modeling.
@@ -55,19 +55,19 @@ The analysis of the Goodreads dataset reveals intriguing patterns and relationsh
 
 The following charts were generated as part of the analysis:
 
-![average_rating_histogram](charts\average_rating_histogram.png)
+![average_rating_histogram](charts/average_rating_histogram.png)
 
 **Explanation:** This chart represents average rating histogram.
 
-![correlation_matrix](charts\correlation_matrix.png)
+![correlation_matrix](charts/correlation_matrix.png)
 
 **Explanation:** This chart represents correlation matrix.
 
-![ratings_count_boxplot](charts\ratings_count_boxplot.png)
+![ratings_count_boxplot](charts/ratings_count_boxplot.png)
 
 **Explanation:** This chart represents ratings count boxplot.
 
-![regression_analysis_ratings_count](charts\regression_analysis_ratings_count.png)
+![regression_analysis_ratings_count](charts/regression_analysis_ratings_count.png)
 
 **Explanation:** This chart represents regression analysis ratings count.
 
