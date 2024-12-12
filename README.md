@@ -45,13 +45,50 @@ Overall, the findings prompt a more nuanced understanding of book ratings on pla
 
 The following charts were generated as part of the analysis:
 
+![boxplot_Freedom to make life choices](boxplot_Freedom to make life choices.png)
+
 **Explanation:** This chart represents boxplot Freedom to make life choices.
 
 ![boxplot_Generosity](boxplot_Generosity.png)
 
+**Explanation:** This chart represents boxplot Generosity.
+
+![boxplot_Healthy life expectancy at birth](boxplot_Healthy life expectancy at birth.png)
+
+**Explanation:** This chart represents boxplot Healthy life expectancy at birth.
+
+![boxplot_Life Ladder](boxplot_Life Ladder.png)
+
 **Explanation:** This chart represents boxplot Life Ladder.
 
-![boxplot_Log GDP per capita](histograms.png)
+![boxplot_Log GDP per capita](boxplot_Log GDP per capita.png)
 
-![boxplot_Log GDP per capita](charts/histograms.png)
+**Explanation:** This chart represents boxplot Log GDP per capita.
 
+![boxplot_Negative affect](boxplot_Negative affect.png)
+
+**Explanation:** This chart represents boxplot Negative affect.
+
+![boxplot_Perceptions of corruption](boxplot_Perceptions of corruption.png)
+
+**Explanation:** This chart represents boxplot Perceptions of corruption.
+
+![boxplot_Positive affect](boxplot_Positive affect.png)
+
+**Explanation:** This chart represents boxplot Positive affect.
+
+![boxplot_Social support](boxplot_Social support.png)
+
+**Explanation:** This chart represents boxplot Social support.
+
+![boxplot_year](boxplot_year.png)
+
+**Explanation:** This chart represents boxplot year.
+
+![correlation_matrix](correlation_matrix.png)
+
+**Explanation:** This chart represents correlation matrix.
+
+![histograms](histograms.png)
+
+**Explanation:** This chart represents histograms.
