@@ -51,5 +51,7 @@ The following charts were generated as part of the analysis:
 
 **Explanation:** This chart represents boxplot Generosity.
 
-![boxplot_Healthy life expectancy at birth3](boxplot_Healthy life expectancy at birth.png)
+![boxplot_Healthy life expectancy at birth](boxplot_Healthy life expectancy at birth.png)
+
+![boxplot_Generosity](boxplot_Generosity.png)
 
