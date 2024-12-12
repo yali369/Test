@@ -47,7 +47,7 @@ The following charts were generated as part of the analysis:
 
 **Explanation:** This chart represents boxplot Freedom to make life choices.
 
-![boxplot_Generosity1](boxplot_Generosity.png)
+![boxplot_Generosity](boxplot_Generosity.png)
 
 **Explanation:** This chart represents boxplot Generosity.
 
