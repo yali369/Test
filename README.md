@@ -27,7 +27,7 @@ The analysis was performed on a dataset consisting of 10,000 entries from Goodre
      - The average rating histogram shows a peak around 4.0, confirming the general trend of positive ratings.
      - The ratings count histogram suggests many books have a low ratings count, but a long tail indicates some books have been rated thousands of times.
    - **Box Plots** display the spread of ratings and reveal that there may be outliers influencing the maximum values, particularly in `ratings_count`.
-   - **Correlation Matrix** highlights weak correlations among the numerical attributes, with a negligible correlation coefficient between `average_rating` and `ratings_count` (R² = 0.002), suggesting little to no linear relationship.
+   - **Correlation Matrix** highlights weak correlations among the numerical attributes, with a negligible correlation coefficient between `average_rating` and `ratings_count` (RÂ² = 0.002), suggesting little to no linear relationship.
    - A regression analysis shows that while the coefficient for `ratings_count` is positive, it is very small (approximately 0.00000007274), indicating that as the `ratings_count` increases, the average rating increases marginally, underlining a broad dispersion with limited predictive power.
 
 ### Insights and Storylines:
@@ -45,17 +45,17 @@ Overall, the findings prompt a more nuanced understanding of book ratings on pla
 
 The following charts were generated as part of the analysis:
 
-![boxplot_Freedom to make life choices](./charts\boxplot_Freedom to make life choices.png)
+![boxplot_Freedom to make life choices](./chart\boxplot_Freedom to make life choices.png)
 
-![boxplot_Generosity](./charts\boxplot_Generosity.png)
+![boxplot_Generosity](./chart\boxplot_Generosity.png)
 
-![boxplot_Healthy life expectancy at birth](./charts\boxplot_Healthy life expectancy at birth.png)
+![boxplot_Healthy life expectancy at birth](./chart\boxplot_Healthy life expectancy at birth.png)
 
-![boxplot_Life Ladder](./charts\boxplot_Life Ladder.png)
+![boxplot_Life Ladder](./chart\boxplot_Life Ladder.png)
 
-![boxplot_Log GDP per capita](./charts\boxplot_Log GDP per capita.png)
+![boxplot_Log GDP per capita](./chart\boxplot_Log GDP per capita.png)
 
-![boxplot_Negative affect](./charts\boxplot_Negative affect.png)
+![boxplot_Negative affect](./chart\boxplot_Negative affect.png)
 
 ![boxplot_Perceptions of corruption](./charts\boxplot_Perceptions of corruption.png)
 
